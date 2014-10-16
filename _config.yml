@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Engineer, Maker, Photographer
+title:            amhughes.com
 locale:           en_US
 url:              http://www.amhughes.com
 
@@ -27,7 +27,7 @@ kramdown:
 owner:
   name: Andrew Hughes
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: Engineer, Maker, Photographer
   email: andrew[at]amhughes.com
   disqus-shortname:
   twitter: #username
