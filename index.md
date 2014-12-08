@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "The personal blog of Andrew Hughes"
+tags: [chemical, engineer, maker, blog, photography]
 image:
   feature: sample-image-1.jpg
   credit: WeGraphics
