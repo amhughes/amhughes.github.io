@@ -10,9 +10,9 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I am a student at Iowa State University studying chemical engineering.  
+I am a student at Iowa State University studying chemical engineering.  Statistically Unsound is my way of documenting the (sometimes ill advised) things that I make.
 
-## Hobbies and Projects:
+## Statistically Unsound features things such as:
 
 * Photography
 * Model Rocketry
